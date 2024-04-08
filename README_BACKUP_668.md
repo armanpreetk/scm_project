@@ -1,6 +1,6 @@
 # scm_project
 <<<<<<< HEAD
-changes made in scm 
+changes made by Armanpreet Kaur
 =======
 changes made in scm  
 >>>>>>> arman
